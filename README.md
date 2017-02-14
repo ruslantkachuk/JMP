@@ -1,2 +1,2 @@
 # JMP
-JMP at EPAM
+Java mentoring program
