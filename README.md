@@ -1,2 +1,2 @@
-# SoftwareDevelopmentProcess
+# Software development process
 -----------
